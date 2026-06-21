@@ -1,5 +1,7 @@
 # Rust FFT Determiner
 
+High-performance Digital Signal Processing toolkit built in Rust with PyO3 bindings and an interactive Streamlit frontend.
+
 A Digital Signal Processing toolkit built with:
 
 - Rust
