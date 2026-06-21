@@ -24,3 +24,21 @@ A Digital Signal Processing toolkit built with:
 maturin develop
 streamlit run frontend/app.py
 ```
+
+## Screenshots
+
+### Dashboard
+
+![Waveform](assets/waveform.png)
+
+### FFT Spectrum
+
+![FFT Spectrum](assets/fft.png)
+
+### STFT Spectrogram
+
+![STFT Spectrogram](assets/spectrogram.png)
+
+### Raw Signal Samples
+
+![Raw Signal Samples](assets/raw_signal_samples.png)
